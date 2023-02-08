@@ -1,0 +1,22 @@
+
+public class CoreJavaBrushUp101 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int myNum = 5;		
+		String wedsite = "Rommer Chu";		
+		char letter = 'r';		
+		double dec = 5.99;		
+		boolean myCard = true;
+		
+		System.out.println(myNum + " " + "is my favorite number");
+		
+		//Array
+		int[] arr = new int[5];
+		
+		System.out.println(arr[5]);
+
+	}
+
+}
